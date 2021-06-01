@@ -1,4 +1,4 @@
-This is a public repository. Its contains data related to Unidados online data scholl.
+This is a public repository. Its contains data related to Unidados online data school.
 
 <!---
 Mafra-Unidados/Mafra-Unidados is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
